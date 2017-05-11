@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/asBrettisay/friendly-goggles/issues"
   },
-  "homepage": "https://github.com/asBrettisay/friendly-goggles#readme"
+  "homepage": "https://github.com/asBrettisay/friendly-goggles#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2"
+  }
 }
